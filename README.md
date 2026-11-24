@@ -146,7 +146,7 @@ Smart_Supply_chain_data_analysis/
 
 ### Landing Page
 The main navigation hub providing direct one-click access to all five analytical report pages.
-![Landing Page](Images/Landing%20Page.jpg)
+![Landing Page](Images/Landing%20Page.png)
 
 ### Executive Summary
 Provides a high-level view of financial performance ($30.82M sales, $3.69M profit), regional market leaders, customer segments, and delivery status breakdowns.
