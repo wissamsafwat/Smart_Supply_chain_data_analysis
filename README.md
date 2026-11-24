@@ -132,7 +132,7 @@ Smart_Supply_chain_data_analysis/
 ├── DataCo_Supply_Chain_Dashboard.pbix
 │
 └── Images/
-    ├── Landing Page.jpg
+    ├── Landing Page.png
     ├── Executive Summary.png
     ├── Customer Analysis.png
     ├── Order Analysis.png
